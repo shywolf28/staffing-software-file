@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}{% if title != "The Staffing Software File" %} · The Staffing Software File{% endif %}</title>
+  <meta name="description" content="{{ description or 'Comparison and buying guides for recruiting and staffing agency software.' }}">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <div class="wrap">
+    <header class="masthead">
+      <a href="/">
+        <h1>The Staffing Software File</h1>
+        <p class="tagline">ATS and CRM buying guides for staffing and recruiting agencies</p>
+      </a>
+    </header>
+
+    <main>
+      {{ content | safe }}
+    </main>
+
+    <p class="disclosure">
+      Some links on this site are affiliate links — if you sign up through
+      one, we may earn a commission at no extra cost to you. We only
+      recommend tools we'd point a real agency toward.
+    </p>
+  </div>
+</body>
+</html>

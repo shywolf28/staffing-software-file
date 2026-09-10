@@ -1,0 +1,20 @@
+---
+layout: base.njk
+title: The Staffing Software File
+---
+<p style="color: var(--sage); margin-bottom: 2rem;">
+  Plain comparisons of the ATS and CRM tools staffing and recruiting
+  agencies actually use — pricing, integrations, and who each one
+  fits, without the marketing gloss.
+</p>
+
+<ul class="post-list">
+  {% for post in collections.posts %}
+  <li>
+    <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+    <time datetime="{{ post.date | date('yyyy-MM-dd') }}">{{ post.date | date('MMMM d, yyyy') }}</time>
+  </li>
+  {% else %}
+  <li>No posts published yet — the first ones are on the way.</li>
+  {% endfor %}
+</ul>
