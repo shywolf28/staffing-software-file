@@ -5,12 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }}{% if title != "The Staffing Software File" %} · The Staffing Software File{% endif %}</title>
   <meta name="description" content="{{ description or 'Comparison and buying guides for recruiting and staffing agency software.' }}">
-  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
 </head>
 <body>
   <div class="wrap">
     <header class="masthead">
-      <a href="/">
+      <a href="{{ '/' | url }}">
         <h1>The Staffing Software File</h1>
         <p class="tagline">ATS and CRM buying guides for staffing and recruiting agencies</p>
       </a>

@@ -21,6 +21,7 @@ module.exports = function (eleventyConfig) {
   });
 
   return {
+    pathPrefix: "/staffing-software-file/",
     dir: {
       input: ".",
       includes: "_includes",
