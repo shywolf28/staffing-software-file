@@ -15,7 +15,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection("posts", (collectionApi) => {
     return collectionApi
-      .getFilteredByGlob("content/posts/*.md")
+      .getFilteredByGlob(["content/posts/*.md", "content/posts/*.html"])
       .filter((post) => !post.data.draft)
       .sort((a, b) => b.date - a.date);
   });
