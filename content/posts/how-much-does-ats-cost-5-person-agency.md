@@ -2,11 +2,16 @@
 title: "How Much Does an ATS Cost for a 5-Person Recruiting Agency"
 date: 2026-09-10
 slug: how-much-does-ats-cost-5-person-agency
+category: "Pricing"
 layout: post.njk
 draft: false
 ---
 
 Most ATS pricing pages quote a per-seat number, which makes the real monthly bill for a small team easy to underestimate until you multiply it out.
+
+> **The short answer**
+>
+> At 5 seats: roughly **$425-475/month** for Recruit CRM's Pro tier, versus **$825/month** for Bullhorn's Core tier — a gap of close to $5,000/year.
 
 ## The math, with published pricing
 
@@ -29,3 +34,8 @@ These are subscription costs only. Vendors update pricing periodically, so treat
 At 5 seats, the gap between Recruit CRM's Pro tier and Bullhorn's Core tier is roughly $400/month, or close to $5,000/year — a meaningful number for a small agency. That gap is usually the price of Bullhorn's larger partner ecosystem and infrastructure built for bigger operations, which is worth paying for if you're confident you'll grow past 10-15 recruiters soon, and less worth paying for if you're not.
 
 Before comparing sticker prices further, get a real quote from each vendor for your exact seat count — published tier pricing is a starting point, and vendors will sometimes negotiate on annual commitments that public pricing pages don't reflect.
+
+<div class="post-bottom-line">
+<div class="label">Bottom line</div>
+<p>The ~$5,000/year gap at 5 seats is the price of Bullhorn's larger ecosystem — worth it if you're confident you'll outgrow "small" soon, skippable if you're not.</p>
+</div>

@@ -2,11 +2,16 @@
 title: "Recruit CRM vs Bullhorn: Which Fits a Small Staffing Agency"
 date: 2026-09-10
 slug: recruit-crm-vs-bullhorn
+category: "Comparison"
 layout: post.njk
 draft: false
 ---
 
 These are the two names that come up most when a small staffing agency starts shopping for an ATS, and they represent genuinely different bets on where your agency is headed.
+
+> **The short answer**
+>
+> Recruit CRM wins on transparent pricing and fast setup for teams under five recruiters. Bullhorn wins on ecosystem depth and infrastructure maturity if you're confident you'll scale past ten within a year or two.
 
 ## Pricing, as published
 
@@ -28,3 +33,8 @@ Both vendors' pricing pages note these numbers can change, so treat this as a st
 If you're under five recruiters and want to know your monthly cost before a sales call, Recruit CRM's transparent tiered pricing and staffing-specific focus make it easier to evaluate on your own. If you're already planning to scale past ten recruiters within the next year or two, or you want the deeper partner ecosystem and infrastructure maturity of a platform built for larger operations, Bullhorn is worth the extra setup overhead and less predictable pricing.
 
 Neither is a bad choice — this is really a question of how much you value pricing transparency and fast setup right now versus long-runway scalability.
+
+<div class="post-bottom-line">
+<div class="label">Bottom line</div>
+<p>Under five recruiters and want cost certainty: Recruit CRM. Confident you'll scale past ten soon: Bullhorn is worth the extra setup overhead.</p>
+</div>

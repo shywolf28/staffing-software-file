@@ -47,6 +47,15 @@ h1, h2, h3 {
   border-bottom: 2px solid var(--ink);
   padding-bottom: 0.9rem;
   margin-bottom: 2.5rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.masthead-eyebrow {
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--sage);
 }
 
 .masthead a {
@@ -106,6 +115,28 @@ h1, h2, h3 {
   margin-bottom: 2rem;
 }
 
+.post-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--sage);
+  margin-bottom: 0.9rem;
+}
+
+.post-category {
+  color: var(--accent-dark);
+  font-weight: 500;
+}
+
+.post-meta-sep {
+  width: 1px;
+  height: 0.7rem;
+  background: #d7d9d1;
+}
+
 .post-header time {
   color: var(--sage);
   font-size: 0.85rem;
@@ -115,10 +146,98 @@ h1, h2, h3 {
   max-width: var(--measure);
 }
 
+.post-body > p:first-of-type {
+  font-family: "IBM Plex Serif", serif;
+  font-size: 1.2rem;
+  line-height: 1.55;
+  color: #3A4655;
+}
+
 .post-body p { margin: 0 0 1.2em; }
 .post-body h2 { font-size: 1.3rem; margin-top: 1.8em; }
 .post-body h3 { font-size: 1.1rem; margin-top: 1.5em; }
-.post-body ul, .post-body ol { padding-left: 1.3em; margin: 0 0 1.2em; }
+
+.post-body blockquote {
+  border-left: 3px solid var(--accent);
+  padding: 0.2rem 0 0.2rem 1.2rem;
+  margin: 2.2rem 0;
+}
+.post-body blockquote p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.post-body ul {
+  padding-left: 1.3em;
+  margin: 0 0 1.2em;
+}
+
+.post-body ol {
+  list-style: none;
+  padding: 0;
+  margin: 1.8rem 0;
+  counter-reset: step;
+}
+.post-body ol > li {
+  counter-increment: step;
+  position: relative;
+  padding: 1.1rem 0 1.1rem 2.6rem;
+  border-top: 1px solid #d7d9d1;
+  line-height: 1.6;
+}
+.post-body ol > li:last-child {
+  border-bottom: 1px solid #d7d9d1;
+}
+.post-body ol > li::before {
+  content: counter(step, decimal-leading-zero);
+  position: absolute;
+  left: 0;
+  top: 1.1rem;
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: var(--accent-dark);
+}
+
+.post-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.8rem 0;
+  font-size: 0.95rem;
+}
+.post-body th, .post-body td {
+  text-align: left;
+  padding: 0.6rem 0.8rem 0.6rem 0;
+  border-bottom: 1px solid #d7d9d1;
+}
+.post-body th {
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--sage);
+  font-weight: 500;
+}
+
+.post-bottom-line {
+  background: var(--ink);
+  color: var(--paper);
+  padding: 1.8rem 1.7rem;
+  margin: 2.5rem 0 0.5rem;
+}
+.post-bottom-line .label {
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.7rem;
+}
+.post-bottom-line p {
+  font-family: "IBM Plex Serif", serif;
+  font-size: 1.15rem;
+  line-height: 1.5;
+  margin: 0;
+}
 
 @media (max-width: 480px) {
   .masthead { flex-direction: column; gap: 0.2rem; }

@@ -13,6 +13,12 @@ module.exports = function (eleventyConfig) {
     return `${MONTHS[d.getUTCMonth()]} ${d.getUTCDate()}, ${yyyy}`;
   });
 
+  eleventyConfig.addFilter("readTime", (html) => {
+    const text = String(html).replace(/<[^>]*>/g, " ");
+    const words = text.split(/\s+/).filter(Boolean).length;
+    return Math.max(1, Math.round(words / 200));
+  });
+
   eleventyConfig.addCollection("posts", (collectionApi) => {
     return collectionApi
       .getFilteredByGlob(["content/posts/*.md", "content/posts/*.html"])
