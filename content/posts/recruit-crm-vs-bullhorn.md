@@ -17,7 +17,7 @@ These are the two names that come up most when a small staffing agency starts sh
 
 | | Entry tier | Mid tier | Notes |
 |---|---|---|---|
-| **Recruit CRM <!-- TODO: affiliate link not yet set for Recruit CRM -->** | ~$85-95/user/mo (Pro) | ~$125-135/user/mo (Business) | Enterprise runs $165-215/user/mo; add-ons (workflow automation, job multiposting, data enrichment) are billed separately |
+| **[Recruit CRM](https://recruitcrm.io?fpr=esteban-fe19e2)** | ~$85-95/user/mo (Pro) | ~$125-135/user/mo (Business) | Enterprise runs $165-215/user/mo; add-ons (workflow automation, job multiposting, data enrichment) are billed separately |
 | **Bullhorn <!-- TODO: affiliate link not yet set for Bullhorn -->** | $99/user/mo (Starter, capped at 1-2 users) | $165/user/mo (Core) | Pro and Max tiers are custom-quoted, not published |
 
 Both vendors' pricing pages note these numbers can change, so treat this as a starting point for a conversation, not a locked-in quote.

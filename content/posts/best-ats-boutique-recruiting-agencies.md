@@ -21,7 +21,7 @@ If your agency has fewer than ten recruiters, most enterprise ATS platforms are 
 
 ## Where the entry-level options actually land
 
-**Recruit CRM <!-- TODO: affiliate link not yet set for Recruit CRM -->** publishes its pricing directly: the Pro tier runs roughly $85-95 per user/month on annual billing, scaling to $125-135 for Business and $165-215 for Enterprise, depending on when you check (vendors adjust pricing periodically, so confirm current numbers directly before committing). It's a combined ATS/CRM built specifically for staffing and recruiting workflows, and reviewers consistently note it's fast to set up — often cited as productive within hours rather than weeks, which matters when you don't have IT support.
+**[Recruit CRM](https://recruitcrm.io?fpr=esteban-fe19e2)** publishes its pricing directly: the Pro tier runs roughly $85-95 per user/month on annual billing, scaling to $125-135 for Business and $165-215 for Enterprise, depending on when you check (vendors adjust pricing periodically, so confirm current numbers directly before committing). It's a combined ATS/CRM built specifically for staffing and recruiting workflows, and reviewers consistently note it's fast to set up — often cited as productive within hours rather than weeks, which matters when you don't have IT support.
 
 **Bullhorn <!-- TODO: affiliate link not yet set for Bullhorn -->** offers a Starter tier at $99/user/month, but it's explicitly capped at 1-2 users — past that you're pushed to the Core tier at $165/user/month. Bullhorn is the more established, enterprise-grade platform, which is a real advantage if you expect to grow fast, but it's also more configuration-heavy than boutique agencies typically need on day one.
 

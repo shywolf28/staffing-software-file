@@ -17,7 +17,7 @@ If you're comparing alternatives to Bullhorn, it's worth being specific about wh
 
 If your agency has genuinely been tracking candidates and clients in a spreadsheet, almost any dedicated ATS/CRM is a step up — the comparison that matters isn't feature-for-feature against Bullhorn, it's whether the tool will actually get adopted by a team used to no formal system at all.
 
-**Recruit CRM <!-- TODO: affiliate link not yet set for Recruit CRM -->** is a common landing point here specifically because of setup speed — teams moving off spreadsheets tend to get productive within hours rather than weeks, which matters when the alternative is recruiters quietly going back to their old habits. Pricing is published and tiered (roughly $85-95/user/month to start), so you can estimate cost before committing to a trial.
+**[Recruit CRM](https://recruitcrm.io?fpr=esteban-fe19e2)** is a common landing point here specifically because of setup speed — teams moving off spreadsheets tend to get productive within hours rather than weeks, which matters when the alternative is recruiters quietly going back to their old habits. Pricing is published and tiered (roughly $85-95/user/month to start), so you can estimate cost before committing to a trial.
 
 ## If you're moving off Bullhorn specifically
 

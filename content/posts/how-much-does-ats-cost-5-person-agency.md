@@ -17,7 +17,7 @@ Most ATS pricing pages quote a per-seat number, which makes the real monthly bil
 
 For a 5-person agency, based on current published rates:
 
-- **Recruit CRM <!-- TODO: affiliate link not yet set for Recruit CRM -->** Pro tier at roughly $85-95/user/month → **$425-475/month** for five seats.
+- **[Recruit CRM](https://recruitcrm.io?fpr=esteban-fe19e2)** Pro tier at roughly $85-95/user/month → **$425-475/month** for five seats.
 - **Bullhorn <!-- TODO: affiliate link not yet set for Bullhorn -->** — the Starter tier caps at 1-2 users, so a 5-person team is pushed to Core at $165/user/month → **$825/month**. That's the tier Bullhorn itself expects a growing small agency to land on.
 - **Loxo and JobAdder** don't publish consistent per-seat pricing — budget for a sales quote rather than a self-serve estimate, and treat any number you find online as approximate until confirmed.
 
